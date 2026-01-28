@@ -37,5 +37,36 @@ def get_companies_all_metrics(identifier1, identifier2, identifier3, limit):
     return company_IDs_in_all_metrics[:10]
 
 all_companies = get_companies_all_metrics(846580, 826615, 836314, 100)
-print(all_companies)
-print(len(all_companies))
+#print(all_companies)
+#print(len(all_companies))
+
+# TEST COMPANY IS EQUINOR
+# REQUIRED DATA TO FETCH - INPUT
+# 1 - question
+metric = api.get_metric(identifier=846580)
+print("Question: ", metric.question)
+
+# 2 - custom id
+print("Custom_id: ", metric.name)
+
+# 3 - data type
+
+
+# 4 - company 
+company = api.get_company(5760335)
+print("Company: ", company.name)
+
+# 5 - file name (the source title)
+
+
+# 6 - the source file url 
+
+# REQUIRED DATA TO FETCH - REFERENCE OUTPUTS
+# 7 - the answer value, identifier = metric id, company = company id
+answer = api.get_answers(identifier=846580, company=5760335)
+print("Answer: ", answer[0].value)
+
+# REQUIRED DATA TO FETCH - STRUCTURED DATA (EXTRA)
+# 8 - the exact numeric value of the metric
+# 9 - the unit the metric is given in (if applicable)
+# 10 - the time frame that the metric is relevant for (E.G. 2023)
