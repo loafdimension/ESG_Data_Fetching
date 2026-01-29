@@ -38,43 +38,55 @@ all_companies = get_companies_all_metrics(846580, 826615, 836314, 100)
 #print(all_companies)
 #print(len(all_companies))
 
-# TEST COMPANY IS EQUINOR
-# INPUT
-# question
-metric = api.get_metric(identifier=846580)
-print("Question: ", metric.question)
+# company and metric identifiers
+company_id = 5760335 # equinor
+metric_id = 846580 #total energy consumption
 
-# custom id
-print("Custom_id: ", metric.name)
+# fetching metric info, company info, and all answers
+metric = api.get_metric(identifier=metric_id)
+company = api.get_company(company_id)
+answers = api.get_answers(identifier=metric_id, company=company_id, limit=100, status="known")
 
-# data type
-print("Data_type: ", metric.value_type)
-
-# company 
-company = api.get_company(5760335)
-print("Company: ", company.name)
-
-# file metas / source documents api request
-answers = api.get_answers(identifier=846580, company=5760335, limit=100, status="known")
-source = api.get_source(identifier="Source-000206657")
-
-# answer value and year
+dataset = []
 
 for answer in answers:
-    value = answer.value
-    year = answer.year
-    print("Answer: ", value)
-    print("Year: ", year)
 
-# file name, file url, and page number 
+    source_docs = [] 
+
     sources = answer.sources
     for source_id in sources:
         try:
             source = api.get_source(identifier=source_id)
-            file_name = source.title
-            file_url = source.file_url
-            print("File Name: ", file_name)
-            print("File URL: ", file_url)
+            source_docs.append({
+                "file_name": source.title,
+                "file_url": source.file_url,
+            })
+            
         except wikirate4py.exceptions.NotFoundException:
-            print(f"Source {source_id} could not be found")
+            source_docs.append({
+                "file_name": "None",
+                "file_url": "None",
+                "source_id": source_id
+            })
+
+    record = {
+        "input": {
+            "question": metric.question,
+            "custom_id": metric.name,
+            "data_type": metric.value_type,
+            "company": company.name,
+            "file_metas:": source_docs
+        },
+        "reference_output": {
+            "answer": answer.value,
+            "source_documents": source_docs
+        },
+        "structured_data": {
+            "time_period": answer.year
+        }
+    }
+
+    dataset.append(record)
+
+print(len(dataset))
 
