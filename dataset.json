@@ -1,0 +1,3048 @@
+[
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Salvatore Ferragamo SpA",
+      "file_metas": [
+        {
+          "file_name": "Salvatore Ferragamo Annual Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/19866986/49382698.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "147822",
+      "source_documents": [
+        {
+          "file_name": "Salvatore Ferragamo Annual Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/19866986/49382698.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2023
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Salvatore Ferragamo SpA",
+      "file_metas": [
+        {
+          "file_name": "Ferragamo Annual Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18074106/47001477.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "130127",
+      "source_documents": [
+        {
+          "file_name": "Ferragamo Annual Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18074106/47001477.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2022
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Salvatore Ferragamo SpA",
+      "file_metas": [
+        {
+          "file_name": "Annual Report 2021",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/14549281/40111552.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "126647",
+      "source_documents": [
+        {
+          "file_name": "Annual Report 2021",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/14549281/40111552.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2021
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Salvatore Ferragamo SpA",
+      "file_metas": [
+        {
+          "file_name": "2019 Sustainability Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/6018412/22379000.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "139220",
+      "source_documents": [
+        {
+          "file_name": "2019 Sustainability Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/6018412/22379000.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2019
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Salvatore Ferragamo SpA",
+      "file_metas": [
+        {
+          "file_name": "Salvatore Ferragamo Sustainability Report 2018",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/5458723/20813817.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "128356",
+      "source_documents": [
+        {
+          "file_name": "Salvatore Ferragamo Sustainability Report 2018",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/5458723/20813817.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2018
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Salvatore Ferragamo SpA",
+      "file_metas": [
+        {
+          "file_name": "Salvatore Ferragamo Sustainability Report 2018",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/5458723/20813817.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "110563",
+      "source_documents": [
+        {
+          "file_name": "Salvatore Ferragamo Sustainability Report 2018",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/5458723/20813817.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2017
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Telefonica",
+      "file_metas": [
+        {
+          "file_name": "management sustainability report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/20290560/49886878.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "21842699",
+      "source_documents": [
+        {
+          "file_name": "management sustainability report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/20290560/49886878.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2023
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Grupo ACS",
+      "file_metas": [
+        {
+          "file_name": "Grupo ACS Sustainability & Non Financial Statement 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/20265834/49861607.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "71405136",
+      "source_documents": [
+        {
+          "file_name": "Grupo ACS Sustainability & Non Financial Statement 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/20265834/49861607.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2023
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Grupo ACS",
+      "file_metas": [
+        {
+          "file_name": "2022 Annual Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/15559385/41715507.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "6667567.31",
+      "source_documents": [
+        {
+          "file_name": "2022 Annual Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/15559385/41715507.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2022
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Asahi Kasei",
+      "file_metas": [
+        {
+          "file_name": "Asahi Kasei Sustainability Report 2023.",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/20269647/49865753.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "53",
+      "source_documents": [
+        {
+          "file_name": "Asahi Kasei Sustainability Report 2023.",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/20269647/49865753.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2023
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Asahi Kasei",
+      "file_metas": [
+        {
+          "file_name": "Asahi Kasei Sustainability Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/15553161/41705470.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "52000000000000000",
+      "source_documents": [
+        {
+          "file_name": "Asahi Kasei Sustainability Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/15553161/41705470.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2022
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Equinor",
+      "file_metas": [
+        {
+          "file_name": "Equinor annual report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/19864638/49378194.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "208800000",
+      "source_documents": [
+        {
+          "file_name": "Equinor annual report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/19864638/49378194.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2023
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Equinor",
+      "file_metas": [
+        {
+          "file_name": "Equinor Sustainability Climate Tables",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/15561425/41719073.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "201600000",
+      "source_documents": [
+        {
+          "file_name": "Equinor Sustainability Climate Tables",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/15561425/41719073.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2022
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Equinor",
+      "file_metas": [
+        {
+          "file_name": "Sustainability Report 2020",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7271211/24834575.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "234000000",
+      "source_documents": [
+        {
+          "file_name": "Sustainability Report 2020",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7271211/24834575.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2020
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Equinor",
+      "file_metas": [
+        {
+          "file_name": "Sustainability Report 2020",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7271211/24834575.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "252000000",
+      "source_documents": [
+        {
+          "file_name": "Sustainability Report 2020",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7271211/24834575.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2019
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Equinor",
+      "file_metas": [
+        {
+          "file_name": "Sustainability Report 2020",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7271211/24834575.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "255600000",
+      "source_documents": [
+        {
+          "file_name": "Sustainability Report 2020",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7271211/24834575.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2018
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Equinor",
+      "file_metas": [
+        {
+          "file_name": "Sustainability Report 2020",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7271211/24834575.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "252000000",
+      "source_documents": [
+        {
+          "file_name": "Sustainability Report 2020",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7271211/24834575.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2017
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Equinor",
+      "file_metas": [
+        {
+          "file_name": "Sustainability Report 2020",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7271211/24834575.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "262800000",
+      "source_documents": [
+        {
+          "file_name": "Sustainability Report 2020",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7271211/24834575.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2016
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Equinor",
+      "file_metas": [
+        {
+          "file_name": "Sustainability report 2015",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7306520/24912410.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "270000000",
+      "source_documents": [
+        {
+          "file_name": "Sustainability report 2015",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7306520/24912410.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2015
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Equinor",
+      "file_metas": [
+        {
+          "file_name": "Sustainability report 2015",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7306520/24912410.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "266400000",
+      "source_documents": [
+        {
+          "file_name": "Sustainability report 2015",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7306520/24912410.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2014
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Equinor",
+      "file_metas": [
+        {
+          "file_name": "Sustainability report 2015",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7306520/24912410.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "259200000",
+      "source_documents": [
+        {
+          "file_name": "Sustainability report 2015",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7306520/24912410.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2013
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Equinor",
+      "file_metas": [
+        {
+          "file_name": "Sustainability report 2015",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7306520/24912410.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "259200000",
+      "source_documents": [
+        {
+          "file_name": "Sustainability report 2015",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7306520/24912410.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2012
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Equinor",
+      "file_metas": [
+        {
+          "file_name": "Sustainability report 2015",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7306520/24912410.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "241200000",
+      "source_documents": [
+        {
+          "file_name": "Sustainability report 2015",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7306520/24912410.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2011
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Equinor",
+      "file_metas": [
+        {
+          "file_name": "Sustainability report 2015",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7306520/24912410.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "234000000",
+      "source_documents": [
+        {
+          "file_name": "Sustainability report 2015",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7306520/24912410.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2010
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Equinor",
+      "file_metas": [
+        {
+          "file_name": "Sustainability report 2012",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7309468/24918598.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "228960000",
+      "source_documents": [
+        {
+          "file_name": "Sustainability report 2012",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7309468/24918598.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2009
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Equinor",
+      "file_metas": [
+        {
+          "file_name": "Sustainability report 2012",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7309468/24918598.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "250560000",
+      "source_documents": [
+        {
+          "file_name": "Sustainability report 2012",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7309468/24918598.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2008
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Equinor",
+      "file_metas": [
+        {
+          "file_name": "Sustainability report 2007",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7309485/24918623.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "251280000",
+      "source_documents": [
+        {
+          "file_name": "Sustainability report 2007",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7309485/24918623.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2007
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Equinor",
+      "file_metas": [
+        {
+          "file_name": "Sustainability report 2007",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7309485/24918623.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "224640000",
+      "source_documents": [
+        {
+          "file_name": "Sustainability report 2007",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7309485/24918623.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2006
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Equinor",
+      "file_metas": [
+        {
+          "file_name": "Sustainability report 2005",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7309508/24918662.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "181440000",
+      "source_documents": [
+        {
+          "file_name": "Sustainability report 2005",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7309508/24918662.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2005
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Equinor",
+      "file_metas": [
+        {
+          "file_name": "Sustainability report 2005",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7309508/24918662.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "173160000",
+      "source_documents": [
+        {
+          "file_name": "Sustainability report 2005",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7309508/24918662.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2004
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Equinor",
+      "file_metas": [
+        {
+          "file_name": "Sustainability report 2005",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7309508/24918662.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "169560000",
+      "source_documents": [
+        {
+          "file_name": "Sustainability report 2005",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7309508/24918662.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2003
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Equinor",
+      "file_metas": [
+        {
+          "file_name": "Sustainability report 2002",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7309531/24918701.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "151560000",
+      "source_documents": [
+        {
+          "file_name": "Sustainability report 2002",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7309531/24918701.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2002
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Equinor",
+      "file_metas": [
+        {
+          "file_name": "Sustainability report 2002",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7309531/24918701.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "159120000",
+      "source_documents": [
+        {
+          "file_name": "Sustainability report 2002",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7309531/24918701.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2001
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Equinor",
+      "file_metas": [
+        {
+          "file_name": "Sustainability report 2002",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7309531/24918701.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "144000000",
+      "source_documents": [
+        {
+          "file_name": "Sustainability report 2002",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7309531/24918701.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2000
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Burlington Stores Inc",
+      "file_metas": [
+        {
+          "file_name": "Burlington Stores Inc Corporate Social Responsibility Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/20244437/49837007.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "2338646.4",
+      "source_documents": [
+        {
+          "file_name": "Burlington Stores Inc Corporate Social Responsibility Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/20244437/49837007.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2023
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Burlington Stores Inc",
+      "file_metas": [
+        {
+          "file_name": "Burlington Stores 2022 Corporate Responsibility Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18045180/46969739.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "2.339",
+      "source_documents": [
+        {
+          "file_name": "Burlington Stores 2022 Corporate Responsibility Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18045180/46969739.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2022
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Burlington Stores Inc",
+      "file_metas": [
+        {
+          "file_name": "Burlington Corporate Social Responsibility Report 2021",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13862299/34981919.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "618685",
+      "source_documents": [
+        {
+          "file_name": "Burlington Corporate Social Responsibility Report 2021",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13862299/34981919.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2021
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Burlington Stores Inc",
+      "file_metas": [
+        {
+          "file_name": "Burlington 2020 CSR Report ",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/14553796/40120681.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "432800",
+      "source_documents": [
+        {
+          "file_name": "Burlington 2020 CSR Report ",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/14553796/40120681.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2020
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Burlington Stores Inc",
+      "file_metas": [
+        {
+          "file_name": "Corporate Social Responsibility Report 2019",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/6338361/22979545.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "1663200",
+      "source_documents": [
+        {
+          "file_name": "Corporate Social Responsibility Report 2019",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/6338361/22979545.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2019
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Burlington Stores Inc",
+      "file_metas": [
+        {
+          "file_name": "Corporate Social Responsibility Report 2018",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/6338415/22979646.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "1832400",
+      "source_documents": [
+        {
+          "file_name": "Corporate Social Responsibility Report 2018",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/6338415/22979646.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2018
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Bosideng International Holdings Limited",
+      "file_metas": [
+        {
+          "file_name": "Bosideng International Holdings Limited Environmental, Social and Governance Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/20271163/49867391.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "300146.04",
+      "source_documents": [
+        {
+          "file_name": "Bosideng International Holdings Limited Environmental, Social and Governance Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/20271163/49867391.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2023
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Bosideng International Holdings Limited",
+      "file_metas": [
+        {
+          "file_name": "Bosideng International Holdings Limited",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/14550141/40113009.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "198755.28",
+      "source_documents": [
+        {
+          "file_name": "Bosideng International Holdings Limited",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/14550141/40113009.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2022
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Bosideng International Holdings Limited",
+      "file_metas": [
+        {
+          "file_name": "Environmental, social and governance 2019",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/6019314/22381015.pdf"
+        },
+        {
+          "file_name": "kwh to gigajoules conversion - Google-Suche",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/6020349/22383287.pdf"
+        },
+        {
+          "file_name": "cubic meters to gigajoules conversion natural gas - Google-Suche",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/6020357/22383296.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "11314.08 ",
+      "source_documents": [
+        {
+          "file_name": "Environmental, social and governance 2019",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/6019314/22381015.pdf"
+        },
+        {
+          "file_name": "kwh to gigajoules conversion - Google-Suche",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/6020349/22383287.pdf"
+        },
+        {
+          "file_name": "cubic meters to gigajoules conversion natural gas - Google-Suche",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/6020357/22383296.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2019
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Bosideng International Holdings Limited",
+      "file_metas": [
+        {
+          "file_name": "kwh to gigajoules conversion - Google-Suche",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/6020349/22383287.pdf"
+        },
+        {
+          "file_name": "Environmental, social and governance 2017/2018",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/6019303/22380998.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "7603.92",
+      "source_documents": [
+        {
+          "file_name": "kwh to gigajoules conversion - Google-Suche",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/6020349/22383287.pdf"
+        },
+        {
+          "file_name": "Environmental, social and governance 2017/2018",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/6019303/22380998.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2018
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Bosideng International Holdings Limited",
+      "file_metas": [
+        {
+          "file_name": "kwh to gigajoules conversion - Google-Suche",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/6020349/22383287.pdf"
+        },
+        {
+          "file_name": "tons of standard coal equivalent to gigajoules - Google-Suche",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/6020411/22383430.pdf"
+        },
+        {
+          "file_name": "Environmental, social and governance report 2016/2017",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/6019279/22380960.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "15048.69168",
+      "source_documents": [
+        {
+          "file_name": "kwh to gigajoules conversion - Google-Suche",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/6020349/22383287.pdf"
+        },
+        {
+          "file_name": "tons of standard coal equivalent to gigajoules - Google-Suche",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/6020411/22383430.pdf"
+        },
+        {
+          "file_name": "Environmental, social and governance report 2016/2017",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/6019279/22380960.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2017
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Fairphone",
+      "file_metas": [
+        {
+          "file_name": "Fairphone Impact Report 2024",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/22339287/52129813.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "331.2",
+      "source_documents": [
+        {
+          "file_name": "Fairphone Impact Report 2024",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/22339287/52129813.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2024
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Fairphone",
+      "file_metas": [
+        {
+          "file_name": "Fairphone Impact Report 2024",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/22339287/52129813.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "403.2",
+      "source_documents": [
+        {
+          "file_name": "Fairphone Impact Report 2024",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/22339287/52129813.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2023
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Fairphone",
+      "file_metas": [
+        {
+          "file_name": "Fairphone Impact Report 2024",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/22339287/52129813.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "277.2",
+      "source_documents": [
+        {
+          "file_name": "Fairphone Impact Report 2024",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/22339287/52129813.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2022
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Sanofi",
+      "file_metas": [
+        {
+          "file_name": "Sanofi CSR Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/19983512/49554548.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "11490415.5",
+      "source_documents": [
+        {
+          "file_name": "Sanofi CSR Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/19983512/49554548.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2023
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Sanofi",
+      "file_metas": [
+        {
+          "file_name": "Sanofi CSR Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/15566681/41727835.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "12122294",
+      "source_documents": [
+        {
+          "file_name": "Sanofi CSR Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/15566681/41727835.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2022
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Sanofi",
+      "file_metas": [
+        {
+          "file_name": "Sanofi CSR Report 2019",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/6788005/24026082.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "15192630",
+      "source_documents": [
+        {
+          "file_name": "Sanofi CSR Report 2019",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/6788005/24026082.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2019
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Sanofi",
+      "file_metas": [
+        {
+          "file_name": "Financial and CSR reports - Sanofi",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/3533275/14489037.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "15458540",
+      "source_documents": [
+        {
+          "file_name": "Financial and CSR reports - Sanofi",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/3533275/14489037.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2017
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Sanofi",
+      "file_metas": [
+        {
+          "file_name": null,
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/3613685/14733768.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "15796434",
+      "source_documents": [
+        {
+          "file_name": null,
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/3613685/14733768.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2016
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Sanofi",
+      "file_metas": [
+        {
+          "file_name": null,
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/3216861/13836245.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "17342779",
+      "source_documents": [
+        {
+          "file_name": null,
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/3216861/13836245.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2015
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Sanofi",
+      "file_metas": [
+        {
+          "file_name": null,
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/3598483/14687441.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "16881188",
+      "source_documents": [
+        {
+          "file_name": null,
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/3598483/14687441.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2014
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Anta Sports Products",
+      "file_metas": [
+        {
+          "file_name": "Anta Sports Products ESG Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/20258981/49854369.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "1327572",
+      "source_documents": [
+        {
+          "file_name": "Anta Sports Products ESG Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/20258981/49854369.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2023
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Anta Sports Products",
+      "file_metas": [
+        {
+          "file_name": "Environmental, Social, and Governance Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18083846/47014816.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "1215730.8",
+      "source_documents": [
+        {
+          "file_name": "Environmental, Social, and Governance Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18083846/47014816.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2022
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Anta Sports Products",
+      "file_metas": [
+        {
+          "file_name": "Anta Sports Products Sustainability Report 2020",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7625173/25374826.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "662819 ",
+      "source_documents": [
+        {
+          "file_name": "Anta Sports Products Sustainability Report 2020",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7625173/25374826.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2020
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total energy consumption (in gigajoules)?",
+      "custom_id": "Total energy consumption, GRI 302-1-e (formerly G4-EN3-e)",
+      "data_type": "Number",
+      "company": "Anta Sports Products",
+      "file_metas": [
+        {
+          "file_name": "Anta sports Sustainability Report 2019",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7335601/24983694.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "658691.80531",
+      "source_documents": [
+        {
+          "file_name": "Anta sports Sustainability Report 2019",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7335601/24983694.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2019
+    }
+  },
+  {
+    "input": {
+      "question": "What is the amount of greenhouse gas (GHG) emissions (in tonnes of CO2 equivalent) that the organization is directly responsible for?",
+      "custom_id": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "data_type": "Number",
+      "company": "Salvatore Ferragamo SpA",
+      "file_metas": [
+        {
+          "file_name": "Salvatore Ferragamo Annual Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/19866986/49382698.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "1128",
+      "source_documents": [
+        {
+          "file_name": "Salvatore Ferragamo Annual Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/19866986/49382698.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2023
+    }
+  },
+  {
+    "input": {
+      "question": "What is the amount of greenhouse gas (GHG) emissions (in tonnes of CO2 equivalent) that the organization is directly responsible for?",
+      "custom_id": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "data_type": "Number",
+      "company": "Salvatore Ferragamo SpA",
+      "file_metas": [
+        {
+          "file_name": "Ferragamo Annual Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18074106/47001477.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "1122",
+      "source_documents": [
+        {
+          "file_name": "Ferragamo Annual Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18074106/47001477.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2022
+    }
+  },
+  {
+    "input": {
+      "question": "What is the amount of greenhouse gas (GHG) emissions (in tonnes of CO2 equivalent) that the organization is directly responsible for?",
+      "custom_id": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "data_type": "Number",
+      "company": "Salvatore Ferragamo SpA",
+      "file_metas": [
+        {
+          "file_name": "Annual Report 2021",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/14549281/40111552.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "1112",
+      "source_documents": [
+        {
+          "file_name": "Annual Report 2021",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/14549281/40111552.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2021
+    }
+  },
+  {
+    "input": {
+      "question": "What is the amount of greenhouse gas (GHG) emissions (in tonnes of CO2 equivalent) that the organization is directly responsible for?",
+      "custom_id": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "data_type": "Number",
+      "company": "Salvatore Ferragamo SpA",
+      "file_metas": [
+        {
+          "file_name": "2019 Sustainability Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/6018412/22379000.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "1308",
+      "source_documents": [
+        {
+          "file_name": "2019 Sustainability Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/6018412/22379000.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2019
+    }
+  },
+  {
+    "input": {
+      "question": "What is the amount of greenhouse gas (GHG) emissions (in tonnes of CO2 equivalent) that the organization is directly responsible for?",
+      "custom_id": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "data_type": "Number",
+      "company": "Salvatore Ferragamo SpA",
+      "file_metas": [
+        {
+          "file_name": "Salvatore Ferragamo Sustainability Report 2018",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/5458723/20813817.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "1034",
+      "source_documents": [
+        {
+          "file_name": "Salvatore Ferragamo Sustainability Report 2018",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/5458723/20813817.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2018
+    }
+  },
+  {
+    "input": {
+      "question": "What is the amount of greenhouse gas (GHG) emissions (in tonnes of CO2 equivalent) that the organization is directly responsible for?",
+      "custom_id": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "data_type": "Number",
+      "company": "Salvatore Ferragamo SpA",
+      "file_metas": [
+        {
+          "file_name": "Salvatore Ferragamo Sustainability Report 2018",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/5458723/20813817.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "1327",
+      "source_documents": [
+        {
+          "file_name": "Salvatore Ferragamo Sustainability Report 2018",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/5458723/20813817.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2017
+    }
+  },
+  {
+    "input": {
+      "question": "What is the amount of greenhouse gas (GHG) emissions (in tonnes of CO2 equivalent) that the organization is directly responsible for?",
+      "custom_id": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "data_type": "Number",
+      "company": "Telefonica",
+      "file_metas": [
+        {
+          "file_name": "management sustainability report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/20290560/49886878.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "122460",
+      "source_documents": [
+        {
+          "file_name": "management sustainability report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/20290560/49886878.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2023
+    }
+  },
+  {
+    "input": {
+      "question": "What is the amount of greenhouse gas (GHG) emissions (in tonnes of CO2 equivalent) that the organization is directly responsible for?",
+      "custom_id": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "data_type": "Number",
+      "company": "Telefonica",
+      "file_metas": [
+        {
+          "file_name": null,
+          "file_url": null
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "94893",
+      "source_documents": [
+        {
+          "file_name": null,
+          "file_url": null
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2014
+    }
+  },
+  {
+    "input": {
+      "question": "What is the amount of greenhouse gas (GHG) emissions (in tonnes of CO2 equivalent) that the organization is directly responsible for?",
+      "custom_id": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "data_type": "Number",
+      "company": "Telefonica",
+      "file_metas": [
+        {
+          "file_name": null,
+          "file_url": null
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "118262",
+      "source_documents": [
+        {
+          "file_name": null,
+          "file_url": null
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2013
+    }
+  },
+  {
+    "input": {
+      "question": "What is the amount of greenhouse gas (GHG) emissions (in tonnes of CO2 equivalent) that the organization is directly responsible for?",
+      "custom_id": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "data_type": "Number",
+      "company": "Grupo ACS",
+      "file_metas": [
+        {
+          "file_name": "Grupo ACS Sustainability & Non Financial Statement 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/20265834/49861607.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "380722",
+      "source_documents": [
+        {
+          "file_name": "Grupo ACS Sustainability & Non Financial Statement 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/20265834/49861607.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2023
+    }
+  },
+  {
+    "input": {
+      "question": "What is the amount of greenhouse gas (GHG) emissions (in tonnes of CO2 equivalent) that the organization is directly responsible for?",
+      "custom_id": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "data_type": "Number",
+      "company": "Grupo ACS",
+      "file_metas": [
+        {
+          "file_name": "INFORME INTEGRADO 2020",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/8092406/26020506.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "2683671",
+      "source_documents": [
+        {
+          "file_name": "INFORME INTEGRADO 2020",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/8092406/26020506.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2020
+    }
+  },
+  {
+    "input": {
+      "question": "What is the amount of greenhouse gas (GHG) emissions (in tonnes of CO2 equivalent) that the organization is directly responsible for?",
+      "custom_id": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "data_type": "Number",
+      "company": "Grupo ACS",
+      "file_metas": [
+        {
+          "file_name": "ANNUAL REPORT - AR",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/6388218/23067031.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "3002654",
+      "source_documents": [
+        {
+          "file_name": "ANNUAL REPORT - AR",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/6388218/23067031.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2019
+    }
+  },
+  {
+    "input": {
+      "question": "What is the amount of greenhouse gas (GHG) emissions (in tonnes of CO2 equivalent) that the organization is directly responsible for?",
+      "custom_id": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "data_type": "Number",
+      "company": "Asahi Kasei",
+      "file_metas": [
+        {
+          "file_name": "Asahi Kasei Sustainability Report 2023.",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/20269647/49865753.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "2.83",
+      "source_documents": [
+        {
+          "file_name": "Asahi Kasei Sustainability Report 2023.",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/20269647/49865753.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2023
+    }
+  },
+  {
+    "input": {
+      "question": "What is the amount of greenhouse gas (GHG) emissions (in tonnes of CO2 equivalent) that the organization is directly responsible for?",
+      "custom_id": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "data_type": "Number",
+      "company": "Asahi Kasei",
+      "file_metas": [
+        {
+          "file_name": "Asahi Kasei Sustainability Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/15553161/41705470.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "3100000",
+      "source_documents": [
+        {
+          "file_name": "Asahi Kasei Sustainability Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/15553161/41705470.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2022
+    }
+  },
+  {
+    "input": {
+      "question": "What is the amount of greenhouse gas (GHG) emissions (in tonnes of CO2 equivalent) that the organization is directly responsible for?",
+      "custom_id": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "data_type": "Number",
+      "company": "Equinor",
+      "file_metas": [
+        {
+          "file_name": "Equinor Integrated annual report  2023 ",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/20298662/49897097.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": " 11500000",
+      "source_documents": [
+        {
+          "file_name": "Equinor Integrated annual report  2023 ",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/20298662/49897097.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2023
+    }
+  },
+  {
+    "input": {
+      "question": "What is the amount of greenhouse gas (GHG) emissions (in tonnes of CO2 equivalent) that the organization is directly responsible for?",
+      "custom_id": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "data_type": "Number",
+      "company": "Equinor",
+      "file_metas": [
+        {
+          "file_name": "Equinor (Former Statoil) Integrated Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/15354536/41298261.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "11400000",
+      "source_documents": [
+        {
+          "file_name": "Equinor (Former Statoil) Integrated Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/15354536/41298261.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2022
+    }
+  },
+  {
+    "input": {
+      "question": "What is the amount of greenhouse gas (GHG) emissions (in tonnes of CO2 equivalent) that the organization is directly responsible for?",
+      "custom_id": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "data_type": "Number",
+      "company": "Burlington Stores Inc",
+      "file_metas": [
+        {
+          "file_name": "Burlington Stores Inc Corporate Social Responsibility Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/20244437/49837007.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": " 39715 ",
+      "source_documents": [
+        {
+          "file_name": "Burlington Stores Inc Corporate Social Responsibility Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/20244437/49837007.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2023
+    }
+  },
+  {
+    "input": {
+      "question": "What is the amount of greenhouse gas (GHG) emissions (in tonnes of CO2 equivalent) that the organization is directly responsible for?",
+      "custom_id": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "data_type": "Number",
+      "company": "Burlington Stores Inc",
+      "file_metas": [
+        {
+          "file_name": "Burlington Stores 2022 Corporate Responsibility Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18045180/46969739.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "38806",
+      "source_documents": [
+        {
+          "file_name": "Burlington Stores 2022 Corporate Responsibility Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18045180/46969739.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2022
+    }
+  },
+  {
+    "input": {
+      "question": "What is the amount of greenhouse gas (GHG) emissions (in tonnes of CO2 equivalent) that the organization is directly responsible for?",
+      "custom_id": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "data_type": "Number",
+      "company": "Burlington Stores Inc",
+      "file_metas": [
+        {
+          "file_name": "Burlington Corporate Social Responsibility Report 2021",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13862299/34981919.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "35094",
+      "source_documents": [
+        {
+          "file_name": "Burlington Corporate Social Responsibility Report 2021",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13862299/34981919.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2021
+    }
+  },
+  {
+    "input": {
+      "question": "What is the amount of greenhouse gas (GHG) emissions (in tonnes of CO2 equivalent) that the organization is directly responsible for?",
+      "custom_id": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "data_type": "Number",
+      "company": "Burlington Stores Inc",
+      "file_metas": [
+        {
+          "file_name": "Burlington 2020 CSR Report ",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/14553796/40120681.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "35077",
+      "source_documents": [
+        {
+          "file_name": "Burlington 2020 CSR Report ",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/14553796/40120681.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2020
+    }
+  },
+  {
+    "input": {
+      "question": "What is the amount of greenhouse gas (GHG) emissions (in tonnes of CO2 equivalent) that the organization is directly responsible for?",
+      "custom_id": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "data_type": "Number",
+      "company": "Burlington Stores Inc",
+      "file_metas": [
+        {
+          "file_name": "Corporate Social Responsibility Report 2019",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/6338361/22979545.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "24793",
+      "source_documents": [
+        {
+          "file_name": "Corporate Social Responsibility Report 2019",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/6338361/22979545.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2019
+    }
+  },
+  {
+    "input": {
+      "question": "What is the amount of greenhouse gas (GHG) emissions (in tonnes of CO2 equivalent) that the organization is directly responsible for?",
+      "custom_id": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "data_type": "Number",
+      "company": "Burlington Stores Inc",
+      "file_metas": [
+        {
+          "file_name": "Corporate Social Responsibility Report 2018",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/6338415/22979646.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "12386",
+      "source_documents": [
+        {
+          "file_name": "Corporate Social Responsibility Report 2018",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/6338415/22979646.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2018
+    }
+  },
+  {
+    "input": {
+      "question": "What is the amount of greenhouse gas (GHG) emissions (in tonnes of CO2 equivalent) that the organization is directly responsible for?",
+      "custom_id": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "data_type": "Number",
+      "company": "Bosideng International Holdings Limited",
+      "file_metas": [
+        {
+          "file_name": "Bosideng International Holdings Limited Environmental, Social and Governance Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/20271163/49867391.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": " 140.9",
+      "source_documents": [
+        {
+          "file_name": "Bosideng International Holdings Limited Environmental, Social and Governance Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/20271163/49867391.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2023
+    }
+  },
+  {
+    "input": {
+      "question": "What is the amount of greenhouse gas (GHG) emissions (in tonnes of CO2 equivalent) that the organization is directly responsible for?",
+      "custom_id": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "data_type": "Number",
+      "company": "Bosideng International Holdings Limited",
+      "file_metas": [
+        {
+          "file_name": "Bosideng International Holdings Limited",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/14550141/40113009.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "117.7",
+      "source_documents": [
+        {
+          "file_name": "Bosideng International Holdings Limited",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/14550141/40113009.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2022
+    }
+  },
+  {
+    "input": {
+      "question": "What is the amount of greenhouse gas (GHG) emissions (in tonnes of CO2 equivalent) that the organization is directly responsible for?",
+      "custom_id": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "data_type": "Number",
+      "company": "Fairphone",
+      "file_metas": [
+        {
+          "file_name": "Fairphone Impact Report 2024",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/22339287/52129813.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "0",
+      "source_documents": [
+        {
+          "file_name": "Fairphone Impact Report 2024",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/22339287/52129813.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2024
+    }
+  },
+  {
+    "input": {
+      "question": "What is the amount of greenhouse gas (GHG) emissions (in tonnes of CO2 equivalent) that the organization is directly responsible for?",
+      "custom_id": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "data_type": "Number",
+      "company": "Sanofi",
+      "file_metas": [
+        {
+          "file_name": "Sanofi CSR Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/19983512/49554548.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "297700",
+      "source_documents": [
+        {
+          "file_name": "Sanofi CSR Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/19983512/49554548.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2023
+    }
+  },
+  {
+    "input": {
+      "question": "What is the amount of greenhouse gas (GHG) emissions (in tonnes of CO2 equivalent) that the organization is directly responsible for?",
+      "custom_id": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "data_type": "Number",
+      "company": "Sanofi",
+      "file_metas": [
+        {
+          "file_name": "Waste management",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/15566161/41726886.pdf"
+        },
+        {
+          "file_name": "Sanofi CSR Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/15566681/41727835.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "536804",
+      "source_documents": [
+        {
+          "file_name": "Waste management",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/15566161/41726886.pdf"
+        },
+        {
+          "file_name": "Sanofi CSR Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/15566681/41727835.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2022
+    }
+  },
+  {
+    "input": {
+      "question": "What is the amount of greenhouse gas (GHG) emissions (in tonnes of CO2 equivalent) that the organization is directly responsible for?",
+      "custom_id": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "data_type": "Number",
+      "company": "Sanofi",
+      "file_metas": [
+        {
+          "file_name": "Sanofi CSR Report 2019",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/6788005/24026082.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "460108",
+      "source_documents": [
+        {
+          "file_name": "Sanofi CSR Report 2019",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/6788005/24026082.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2019
+    }
+  },
+  {
+    "input": {
+      "question": "What is the amount of greenhouse gas (GHG) emissions (in tonnes of CO2 equivalent) that the organization is directly responsible for?",
+      "custom_id": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "data_type": "Number",
+      "company": "Sanofi",
+      "file_metas": [
+        {
+          "file_name": "Financial and CSR reports - Sanofi",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/3533275/14489037.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "426598",
+      "source_documents": [
+        {
+          "file_name": "Financial and CSR reports - Sanofi",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/3533275/14489037.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2017
+    }
+  },
+  {
+    "input": {
+      "question": "What is the amount of greenhouse gas (GHG) emissions (in tonnes of CO2 equivalent) that the organization is directly responsible for?",
+      "custom_id": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "data_type": "Number",
+      "company": "Sanofi",
+      "file_metas": [
+        {
+          "file_name": null,
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/3613685/14733768.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "431359",
+      "source_documents": [
+        {
+          "file_name": null,
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/3613685/14733768.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2016
+    }
+  },
+  {
+    "input": {
+      "question": "What is the amount of greenhouse gas (GHG) emissions (in tonnes of CO2 equivalent) that the organization is directly responsible for?",
+      "custom_id": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "data_type": "Number",
+      "company": "Sanofi",
+      "file_metas": [
+        {
+          "file_name": null,
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/3216797/13836063.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "464199",
+      "source_documents": [
+        {
+          "file_name": null,
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/3216797/13836063.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2015
+    }
+  },
+  {
+    "input": {
+      "question": "What is the amount of greenhouse gas (GHG) emissions (in tonnes of CO2 equivalent) that the organization is directly responsible for?",
+      "custom_id": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "data_type": "Number",
+      "company": "Sanofi",
+      "file_metas": [
+        {
+          "file_name": null,
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/3598483/14687441.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "607807",
+      "source_documents": [
+        {
+          "file_name": null,
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/3598483/14687441.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2014
+    }
+  },
+  {
+    "input": {
+      "question": "What is the amount of greenhouse gas (GHG) emissions (in tonnes of CO2 equivalent) that the organization is directly responsible for?",
+      "custom_id": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "data_type": "Number",
+      "company": "Anta Sports Products",
+      "file_metas": [
+        {
+          "file_name": "Anta Sports Products ESG Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/20258981/49854369.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "8525",
+      "source_documents": [
+        {
+          "file_name": "Anta Sports Products ESG Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/20258981/49854369.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2023
+    }
+  },
+  {
+    "input": {
+      "question": "What is the amount of greenhouse gas (GHG) emissions (in tonnes of CO2 equivalent) that the organization is directly responsible for?",
+      "custom_id": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "data_type": "Number",
+      "company": "Anta Sports Products",
+      "file_metas": [
+        {
+          "file_name": "2022 Sustainability",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/14551339/40115469.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "4820 ",
+      "source_documents": [
+        {
+          "file_name": "2022 Sustainability",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/14551339/40115469.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2022
+    }
+  },
+  {
+    "input": {
+      "question": "What is the amount of greenhouse gas (GHG) emissions (in tonnes of CO2 equivalent) that the organization is directly responsible for?",
+      "custom_id": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "data_type": "Number",
+      "company": "Anta Sports Products",
+      "file_metas": [
+        {
+          "file_name": "Anta sports Sustainability Report 2019",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7335601/24983694.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "15298",
+      "source_documents": [
+        {
+          "file_name": "Anta sports Sustainability Report 2019",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7335601/24983694.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2019
+    }
+  },
+  {
+    "input": {
+      "question": "What is the amount of greenhouse gas (GHG) emissions (in tonnes of CO2 equivalent) that the organization is directly responsible for?",
+      "custom_id": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "data_type": "Number",
+      "company": "Anta Sports Products",
+      "file_metas": [
+        {
+          "file_name": "Anta Sports Products Sustainability Report 2018",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/5759683/22001070.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "7019",
+      "source_documents": [
+        {
+          "file_name": "Anta Sports Products Sustainability Report 2018",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/5759683/22001070.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2018
+    }
+  },
+  {
+    "input": {
+      "question": "What is the amount of greenhouse gas (GHG) emissions (in tonnes of CO2 equivalent) that the organization is directly responsible for?",
+      "custom_id": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "data_type": "Number",
+      "company": "Anta Sports Products",
+      "file_metas": [
+        {
+          "file_name": "Anta Sports Products Sustainability Report 2017",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/5759692/22001080.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "14560",
+      "source_documents": [
+        {
+          "file_name": "Anta Sports Products Sustainability Report 2017",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/5759692/22001080.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2017
+    }
+  },
+  {
+    "input": {
+      "question": "What is the amount of greenhouse gas (GHG) emissions (in tonnes of CO2 equivalent) that the organization is directly responsible for?",
+      "custom_id": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "data_type": "Number",
+      "company": "Anta Sports Products",
+      "file_metas": [
+        {
+          "file_name": "Anta Sports Products Sustainability Report 2017",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/5759692/22001080.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "12327",
+      "source_documents": [
+        {
+          "file_name": "Anta Sports Products Sustainability Report 2017",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/5759692/22001080.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2016
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total number of incidents of discrimination reported by the organization during the reporting period?",
+      "custom_id": "Incidents of discrimination, GRI 406-1 (G4-HR3-a)",
+      "data_type": "Number",
+      "company": "Salvatore Ferragamo SpA",
+      "file_metas": [
+        {
+          "file_name": "Ferragamo Annual Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18074106/47001477.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "1",
+      "source_documents": [
+        {
+          "file_name": "Ferragamo Annual Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18074106/47001477.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2022
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total number of incidents of discrimination reported by the organization during the reporting period?",
+      "custom_id": "Incidents of discrimination, GRI 406-1 (G4-HR3-a)",
+      "data_type": "Number",
+      "company": "Salvatore Ferragamo SpA",
+      "file_metas": [
+        {
+          "file_name": "Annual Report 2021",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/14549281/40111552.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "1",
+      "source_documents": [
+        {
+          "file_name": "Annual Report 2021",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/14549281/40111552.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2021
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total number of incidents of discrimination reported by the organization during the reporting period?",
+      "custom_id": "Incidents of discrimination, GRI 406-1 (G4-HR3-a)",
+      "data_type": "Number",
+      "company": "Telefonica",
+      "file_metas": [
+        {
+          "file_name": "management sustainability report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/20290560/49886878.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "0",
+      "source_documents": [
+        {
+          "file_name": "management sustainability report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/20290560/49886878.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2023
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total number of incidents of discrimination reported by the organization during the reporting period?",
+      "custom_id": "Incidents of discrimination, GRI 406-1 (G4-HR3-a)",
+      "data_type": "Number",
+      "company": "Telefonica",
+      "file_metas": [
+        {
+          "file_name": "Consolidated Annual Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/14558635/40142512.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "0",
+      "source_documents": [
+        {
+          "file_name": "Consolidated Annual Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/14558635/40142512.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2022
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total number of incidents of discrimination reported by the organization during the reporting period?",
+      "custom_id": "Incidents of discrimination, GRI 406-1 (G4-HR3-a)",
+      "data_type": "Number",
+      "company": "Telefonica",
+      "file_metas": [
+        {
+          "file_name": "Telefonica Consolidated Management Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/8098207/26030868.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "3",
+      "source_documents": [
+        {
+          "file_name": "Telefonica Consolidated Management Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/8098207/26030868.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2020
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total number of incidents of discrimination reported by the organization during the reporting period?",
+      "custom_id": "Incidents of discrimination, GRI 406-1 (G4-HR3-a)",
+      "data_type": "Number",
+      "company": "Telefonica",
+      "file_metas": [
+        {
+          "file_name": "2019 Annual Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/6573252/23347136.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "2",
+      "source_documents": [
+        {
+          "file_name": "2019 Annual Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/6573252/23347136.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2019
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total number of incidents of discrimination reported by the organization during the reporting period?",
+      "custom_id": "Incidents of discrimination, GRI 406-1 (G4-HR3-a)",
+      "data_type": "Number",
+      "company": "Grupo ACS",
+      "file_metas": [
+        {
+          "file_name": "Grupo ACS Sustainability & Non Financial Statement 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/20265834/49861607.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "20",
+      "source_documents": [
+        {
+          "file_name": "Grupo ACS Sustainability & Non Financial Statement 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/20265834/49861607.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2023
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total number of incidents of discrimination reported by the organization during the reporting period?",
+      "custom_id": "Incidents of discrimination, GRI 406-1 (G4-HR3-a)",
+      "data_type": "Number",
+      "company": "Grupo ACS",
+      "file_metas": [
+        {
+          "file_name": "INFORME INTEGRADO 2020",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/8091130/26017101.pdf"
+        },
+        {
+          "file_name": "INFORME INTEGRADO 2020",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/8092406/26020506.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "4",
+      "source_documents": [
+        {
+          "file_name": "INFORME INTEGRADO 2020",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/8091130/26017101.pdf"
+        },
+        {
+          "file_name": "INFORME INTEGRADO 2020",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/8092406/26020506.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2020
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total number of incidents of discrimination reported by the organization during the reporting period?",
+      "custom_id": "Incidents of discrimination, GRI 406-1 (G4-HR3-a)",
+      "data_type": "Number",
+      "company": "Grupo ACS",
+      "file_metas": [
+        {
+          "file_name": "ANNUAL REPORT - AR",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/6388218/23067031.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "3",
+      "source_documents": [
+        {
+          "file_name": "ANNUAL REPORT - AR",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/6388218/23067031.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2019
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total number of incidents of discrimination reported by the organization during the reporting period?",
+      "custom_id": "Incidents of discrimination, GRI 406-1 (G4-HR3-a)",
+      "data_type": "Number",
+      "company": "Asahi Kasei",
+      "file_metas": [
+        {
+          "file_name": "Asahi Kasei Sustainability Report 2023.",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/20269647/49865753.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "2",
+      "source_documents": [
+        {
+          "file_name": "Asahi Kasei Sustainability Report 2023.",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/20269647/49865753.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2023
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total number of incidents of discrimination reported by the organization during the reporting period?",
+      "custom_id": "Incidents of discrimination, GRI 406-1 (G4-HR3-a)",
+      "data_type": "Number",
+      "company": "Asahi Kasei",
+      "file_metas": [
+        {
+          "file_name": "Asahi Kasei Sustainability Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/15553161/41705470.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "0",
+      "source_documents": [
+        {
+          "file_name": "Asahi Kasei Sustainability Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/15553161/41705470.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2022
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total number of incidents of discrimination reported by the organization during the reporting period?",
+      "custom_id": "Incidents of discrimination, GRI 406-1 (G4-HR3-a)",
+      "data_type": "Number",
+      "company": "Equinor",
+      "file_metas": [
+        {
+          "file_name": "Equinor (Former Statoil) Integrated Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/15354536/41298261.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "60",
+      "source_documents": [
+        {
+          "file_name": "Equinor (Former Statoil) Integrated Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/15354536/41298261.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2022
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total number of incidents of discrimination reported by the organization during the reporting period?",
+      "custom_id": "Incidents of discrimination, GRI 406-1 (G4-HR3-a)",
+      "data_type": "Number",
+      "company": "Burlington Stores Inc",
+      "file_metas": [
+        {
+          "file_name": "Burlington Stores 2022 Corporate Responsibility Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18045180/46969739.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "0",
+      "source_documents": [
+        {
+          "file_name": "Burlington Stores 2022 Corporate Responsibility Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18045180/46969739.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2022
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total number of incidents of discrimination reported by the organization during the reporting period?",
+      "custom_id": "Incidents of discrimination, GRI 406-1 (G4-HR3-a)",
+      "data_type": "Number",
+      "company": "Bosideng International Holdings Limited",
+      "file_metas": [
+        {
+          "file_name": "Bosideng International Holdings Limited",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/14550141/40113009.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "0",
+      "source_documents": [
+        {
+          "file_name": "Bosideng International Holdings Limited",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/14550141/40113009.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2022
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total number of incidents of discrimination reported by the organization during the reporting period?",
+      "custom_id": "Incidents of discrimination, GRI 406-1 (G4-HR3-a)",
+      "data_type": "Number",
+      "company": "Fairphone",
+      "file_metas": [
+        {
+          "file_name": "Fairphone Impact Report 2024",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/22339287/52129813.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "0",
+      "source_documents": [
+        {
+          "file_name": "Fairphone Impact Report 2024",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/22339287/52129813.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2024
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total number of incidents of discrimination reported by the organization during the reporting period?",
+      "custom_id": "Incidents of discrimination, GRI 406-1 (G4-HR3-a)",
+      "data_type": "Number",
+      "company": "Sanofi",
+      "file_metas": [
+        {
+          "file_name": "Sanofi CSR Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/19983512/49554548.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "63",
+      "source_documents": [
+        {
+          "file_name": "Sanofi CSR Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/19983512/49554548.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2023
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total number of incidents of discrimination reported by the organization during the reporting period?",
+      "custom_id": "Incidents of discrimination, GRI 406-1 (G4-HR3-a)",
+      "data_type": "Number",
+      "company": "Anta Sports Products",
+      "file_metas": [
+        {
+          "file_name": "Environmental, Social, and Governance Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18083846/47014816.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "0",
+      "source_documents": [
+        {
+          "file_name": "Environmental, Social, and Governance Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18083846/47014816.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2022
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total number of incidents of discrimination reported by the organization during the reporting period?",
+      "custom_id": "Incidents of discrimination, GRI 406-1 (G4-HR3-a)",
+      "data_type": "Number",
+      "company": "Anta Sports Products",
+      "file_metas": [
+        {
+          "file_name": "2022 Sustainability",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/14551339/40115469.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "0",
+      "source_documents": [
+        {
+          "file_name": "2022 Sustainability",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/14551339/40115469.pdf"
+        }
+      ]
+    },
+    "structured_data": {
+      "time_period": 2020
+    }
+  }
+]
