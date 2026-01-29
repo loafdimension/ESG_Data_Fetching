@@ -3,9 +3,7 @@ import os
 import wikirate4py
 
 load_dotenv()
-
 api_key = os.getenv("WIKIRATE_API_KEY")
-
 api = wikirate4py.API(api_key)
 
 # my chosen metrics 
@@ -41,32 +39,42 @@ all_companies = get_companies_all_metrics(846580, 826615, 836314, 100)
 #print(len(all_companies))
 
 # TEST COMPANY IS EQUINOR
-# REQUIRED DATA TO FETCH - INPUT
-# 1 - question
+# INPUT
+# question
 metric = api.get_metric(identifier=846580)
 print("Question: ", metric.question)
 
-# 2 - custom id
+# custom id
 print("Custom_id: ", metric.name)
 
-# 3 - data type
+# data type
+print("Data_type: ", metric.value_type)
 
-
-# 4 - company 
+# company 
 company = api.get_company(5760335)
 print("Company: ", company.name)
 
-# 5 - file name (the source title)
+# file metas / source documents api request
+answers = api.get_answers(identifier=846580, company=5760335, limit=100, status="known")
+source = api.get_source(identifier="Source-000206657")
 
+# answer value and year
 
-# 6 - the source file url 
+for answer in answers:
+    value = answer.value
+    year = answer.year
+    print("Answer: ", value)
+    print("Year: ", year)
 
-# REQUIRED DATA TO FETCH - REFERENCE OUTPUTS
-# 7 - the answer value, identifier = metric id, company = company id
-answer = api.get_answers(identifier=846580, company=5760335)
-print("Answer: ", answer[0].value)
+# file name, file url, and page number 
+    sources = answer.sources
+    for source_id in sources:
+        try:
+            source = api.get_source(identifier=source_id)
+            file_name = source.title
+            file_url = source.file_url
+            print("File Name: ", file_name)
+            print("File URL: ", file_url)
+        except wikirate4py.exceptions.NotFoundException:
+            print(f"Source {source_id} could not be found")
 
-# REQUIRED DATA TO FETCH - STRUCTURED DATA (EXTRA)
-# 8 - the exact numeric value of the metric
-# 9 - the unit the metric is given in (if applicable)
-# 10 - the time frame that the metric is relevant for (E.G. 2023)
