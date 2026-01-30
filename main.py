@@ -52,7 +52,6 @@ dataset = []
 for metric_id in metrics:
     for company_id in company_ids_list:
 
-        # fetching metric info, company info, and all answers
         metric = api.get_metric(identifier=metric_id)
         company = api.get_company(company_id)
 
@@ -100,3 +99,4 @@ for metric_id in metrics:
 
 with open("dataset.json", "w", encoding="utf-8") as f:
     json.dump(dataset, f, indent=2, ensure_ascii=False)
+    
