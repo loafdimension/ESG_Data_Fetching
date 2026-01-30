@@ -11,8 +11,8 @@ I created an account with WikiRate, generated an API key, and then read on the W
 3 - Incidents of discrimination, GRI 406-1 (G4-HR3-a)
 
 ## Data Quality Issues
-1 - Excludes companies with partial reporting of data as they would not have met the requirements of having a "known" status.
-2 - Some records reference source documents that aren't accessible via the API, which results in missing or incomplete source metadata.
+- Excludes companies with partial reporting of data as they would not have met the requirements of having a "known" status.  
+- Some records reference source documents that aren't accessible via the API, which results in missing or incomplete source metadata.
 
 ## Assumptions or trade-offs
 Assumptions 
