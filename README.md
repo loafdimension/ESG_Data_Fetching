@@ -28,9 +28,6 @@ Code optimisation
 - Cache metric and company objects instead of repeatedly fetching them.
 - Batch API calls to reduce latency and API load.
 
-Complete additional tasks
-- Add information on the page number, as well as the entire structured data requirements (unit and value).
-
 Filtering
 - Refactor so the records that come back in the dataset can be by year, or a variety of other options.
 - Refactor the function so it can return companies based on highest or lowest answers, and more filtering options.
