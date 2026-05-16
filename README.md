@@ -1,4 +1,4 @@
-# Briink Engineering Internship: Technical Assignment
+# ESG Data Fetching
 
 ## How I accessed WikiRate's data
 I created an account with WikiRate, generated an API key, and then read on the WikiRates API page that they had provided a link to an API wrapper called "WikiRate4py". I didn't know much about API wrappers so I looked in to what it does and read through the WikiRate4py documentation. I then saw that it really simplifies interactions with an API, as it handles request URLs, query parameters, HTTP headers, has built in error handling features, and allows you to combine several API calls in to a single function. This sounded great, so I installed WikiRate4py and used that to access WikiRate's data.
